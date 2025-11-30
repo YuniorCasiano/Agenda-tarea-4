@@ -9,7 +9,7 @@ Este proyecto es una implementación en **React** de la agenda desarrollada en l
 ---
 
 ## 📸 Vista del Proyecto
-
+<img width="1918" height="745" alt="Image" src="https://github.com/user-attachments/assets/0e53e95f-b52e-4252-9036-222e74ea6121" />
 Incluye aquí una captura del proyecto. Guarda la imagen dentro de la carpeta `public/` y reemplaza el nombre del archivo abajo.
 
 ```markdown
