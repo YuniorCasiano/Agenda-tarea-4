@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+.container {
+  width: 500px;
+  margin: 30px auto;
+  font-family: Arial, sans-serif;
+}
+
+input {
+  padding: 8px;
+  margin: 5px 0;
+  width: 95%;
+}
+
+button {
+  padding: 10px;
+  margin-top: 10px;
+  cursor: pointer;
+}
