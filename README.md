@@ -15,7 +15,6 @@ Incluye aquí una captura del proyecto. Guarda la imagen dentro de la carpeta `p
 ```markdown
 
 ![Vista del proyecto](captura.png)
-
 ```
 
 ---
