@@ -13,7 +13,7 @@ Este proyecto es una implementación en **React** de la agenda desarrollada en l
 Incluye aquí una captura del proyecto. Guarda la imagen dentro de la carpeta `public/` y reemplaza el nombre del archivo abajo.
 
 ```markdown
-![Vista del proyecto](captura%20proyecto.png)
+![Vista del proyecto](./captura%20proyecto.png)
 ```
 
 ---
