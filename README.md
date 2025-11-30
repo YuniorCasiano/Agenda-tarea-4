@@ -13,9 +13,7 @@ Este proyecto es una implementación en **React** de la agenda desarrollada en l
 Incluye aquí una captura del proyecto. Guarda la imagen dentro de la carpeta `public/` y reemplaza el nombre del archivo abajo.
 
 ```markdown
-![image alt]([captura.png](https://github.com/YuniorCasiano/Agenda-tarea-4/blob/1016e58af2c3ef2797637387826ea20b1cb3a9a1/captura.png
-))
-
+![Vista del proyecto](captura.png)
 ```
 
 ---
