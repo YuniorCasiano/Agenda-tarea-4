@@ -14,8 +14,7 @@ Incluye aquí una captura del proyecto. Guarda la imagen dentro de la carpeta `p
 
 ```markdown
 
-![Vista del proyecto](public/captura.png)```
-
+![Vista del proyecto](https://raw.githubusercontent.com/YuniorCasiano/Agenda-tarea-4/main/public/captura.png)
 ---
 
 ## 🚀 Tecnologías Utilizadas
